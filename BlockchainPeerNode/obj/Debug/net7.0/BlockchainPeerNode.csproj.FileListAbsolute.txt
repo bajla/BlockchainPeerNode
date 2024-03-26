@@ -1,0 +1,15 @@
+/Users/aneyvaishnav/RiderProjects/BlockchainPeerNode/BlockchainPeerNode/bin/Debug/net7.0/BlockchainPeerNode
+/Users/aneyvaishnav/RiderProjects/BlockchainPeerNode/BlockchainPeerNode/bin/Debug/net7.0/BlockchainPeerNode.deps.json
+/Users/aneyvaishnav/RiderProjects/BlockchainPeerNode/BlockchainPeerNode/bin/Debug/net7.0/BlockchainPeerNode.runtimeconfig.json
+/Users/aneyvaishnav/RiderProjects/BlockchainPeerNode/BlockchainPeerNode/bin/Debug/net7.0/BlockchainPeerNode.dll
+/Users/aneyvaishnav/RiderProjects/BlockchainPeerNode/BlockchainPeerNode/bin/Debug/net7.0/BlockchainPeerNode.pdb
+/Users/aneyvaishnav/RiderProjects/BlockchainPeerNode/BlockchainPeerNode/obj/Debug/net7.0/BlockchainPeerNode.csproj.AssemblyReference.cache
+/Users/aneyvaishnav/RiderProjects/BlockchainPeerNode/BlockchainPeerNode/obj/Debug/net7.0/BlockchainPeerNode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aneyvaishnav/RiderProjects/BlockchainPeerNode/BlockchainPeerNode/obj/Debug/net7.0/BlockchainPeerNode.AssemblyInfoInputs.cache
+/Users/aneyvaishnav/RiderProjects/BlockchainPeerNode/BlockchainPeerNode/obj/Debug/net7.0/BlockchainPeerNode.AssemblyInfo.cs
+/Users/aneyvaishnav/RiderProjects/BlockchainPeerNode/BlockchainPeerNode/obj/Debug/net7.0/BlockchainPeerNode.csproj.CoreCompileInputs.cache
+/Users/aneyvaishnav/RiderProjects/BlockchainPeerNode/BlockchainPeerNode/obj/Debug/net7.0/BlockchainPeerNode.dll
+/Users/aneyvaishnav/RiderProjects/BlockchainPeerNode/BlockchainPeerNode/obj/Debug/net7.0/refint/BlockchainPeerNode.dll
+/Users/aneyvaishnav/RiderProjects/BlockchainPeerNode/BlockchainPeerNode/obj/Debug/net7.0/BlockchainPeerNode.pdb
+/Users/aneyvaishnav/RiderProjects/BlockchainPeerNode/BlockchainPeerNode/obj/Debug/net7.0/BlockchainPeerNode.genruntimeconfig.cache
+/Users/aneyvaishnav/RiderProjects/BlockchainPeerNode/BlockchainPeerNode/obj/Debug/net7.0/ref/BlockchainPeerNode.dll
